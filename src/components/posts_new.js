@@ -1,6 +1,6 @@
-import React, {component} from 'react';
+import React, {Component} from 'react';
 
-class PostsNew extends component()
+class PostsNew extends Component
 {
     render()
     {
